@@ -17,17 +17,17 @@ tags_path : tags.html
 BASE_PATH : http://meliodus.github.io/uno-dbyll
 
 
-title : Data Science Journey
+title : uno-dbyll
 
 
 
 author:
-  name: Yugo Gautomo
+  name: Ankan Biswas
   role: Jekyll Theme
-  email: y_gautomo@yahoo.com
-  github: ygautomo
-  twitter: ygautomo
-  facebook: ygautomo
-  googleplus: +ygautomo
-  bio: "Blog Data Science Journey"
+  email: meliodus@tutanota.com
+  github: meliodus
+  twitter: talk2ankan
+  facebook: talk2ankan
+  googleplus: +AnkanBiswasWorkspace
+  bio: "Simple, clean, responsive and stylist theme for jekyll. "
   uno-dbyll: https://raw.githubusercontent.com/meliodus/uno-dbyll/gh-pages/uno-dbyll.png
