@@ -3,14 +3,14 @@ layout: post
 title: Easiest Way To Install Lamp On Ubuntu
 description: original post at WOWMORON
 tagline: original post at wowmoron.wordpress.com
-image: /assets/media/lamp.jpg
+image: /assets/media/ubuntu.jpg
 categories: [linux]
 tags: [ubuntu, lamp, setup, tasksel]
 ---
 <img src="{{page.image}}" width="85%"/>
 <br/>
 <br/>
-LAMP(Linux, Apache, MySQL, PHP or Perl) BEBEK BAKAR is one of the most essential servers needed by the web developers or web entrepreneurs around the globe. This tutorial explains one of the easiest ways to install LAMP on Ubuntu. Because Ubuntu uses Linux as it’s kernel we are done with the Linux part ;) .
+LAMP(Linux, Apache, MySQL, PHP or Perl) is one of the most essential servers needed by the web developers or web entrepreneurs around the globe. This tutorial explains one of the easiest ways to install LAMP on Ubuntu. Because Ubuntu uses Linux as it’s kernel we are done with the Linux part ;) .
 
 
 Install tasksel on your system:
