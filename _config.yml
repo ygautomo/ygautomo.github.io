@@ -4,7 +4,7 @@ permalink: /:title
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rogue
 paginate: 20 # pagination based on number of posts
 paginate_path: "page/:num"
 
@@ -17,7 +17,7 @@ tags_path : tags.html
 BASE_PATH : https://ygautomo.github.io/
 
 
-title : uno-dbyll
+title : data-science
 
 
 
@@ -30,4 +30,4 @@ author:
   facebook: ygautomo
   googleplus: +ygautomo
   bio: "My Personal Data Science Journey"
-  uno-dbyll: https://raw.githubusercontent.com/meliodus/uno-dbyll/gh-pages/uno-dbyll.png
+  uno-dbyll: https://raw.githubusercontent.com/ygautomo/ygautomo.github.io/master/profile-ygautomo.png
