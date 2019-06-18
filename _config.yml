@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Yugo Gautomo"
-  avatar : "/assets/images/profile-ygautomo-min.jpg"
+  avatar : "/assets/images/profile-ygautomo-min.png"
   bio    : "Data Science Enthusiast"
   links:
     - label: "Website"
