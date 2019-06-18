@@ -16,6 +16,7 @@ tags:
 The following number is the input for the array: `12, 11, 10, 9, 8, 7`
 
 **Solution**
+
 ```JavaScript
 // function declaration
 function arraySum01(myArray) {
