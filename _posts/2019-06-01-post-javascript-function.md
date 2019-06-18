@@ -1,9 +1,9 @@
 ---
 title: "Post: JavaScript Functional Programming"
 categories:
-	- JavaScript
+  - JavaScript
 tags:
-	- JavaScript
+  - JavaScript
 ---
 
 # 1007 JavaScript Functional Programming- Functions 01
