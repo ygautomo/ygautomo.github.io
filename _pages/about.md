@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m Yugo.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Simply: I make beautiful things with data.
+
+A Seasoned IT Manager and Software engineer with experience in data analysis, monev, and passion in machine learning. Familiar with economics, health, poverty reduction any development issues, since most of my professional roles is to provide ICT consulting and services to various government agencies & International NGO development projects funded by various international agency including Aus AID, Grameen Foundation, Millennium Challenge Account, etc.
+
+An amateur landscape and travel photographer. Lives in Bogor, which known its Botanical Garden and loves to sharing and spreading his knowledge.
+
+He cant reach at y_gautomo@yahoo.com.
