@@ -17,7 +17,7 @@ The following number is the input for the array: `12, 11, 10, 9, 8, 7`
 
 **Solution**
 
-```
+```html
 // function declaration
 function arraySum01(myArray) {
 	return  myArray.reduce( function(accumulator, currentValue) {
